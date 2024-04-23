@@ -121,7 +121,7 @@ Highest average speed of answer (70.99 seconds).
 
 ### ACTION TO TAKE:
 
-##Recommendations
+## Recommendations
 
 - Focus on Streaming Service Issues: Given the significant number of resolutions in this area, it's crucial to delve deeper into the root causes of these issues and identify strategies for improvement.
 
