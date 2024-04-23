@@ -143,6 +143,6 @@ By taking these actions, the call center can ensure that the best performing age
 
 You can interact with the report [Here](app.powerbi.com/groups/me/reports/98d9d038-95a9-4384-8df6-9d48dfacbe1e/ReportSection08522ebdfeb28c21b2b9?experience=power-bi)
 
-Let's connect on Linkedin You can interact with the report [Here](https://www.linkedin.com/in/temitopeatanda/)
+Let's connect on Linkedin [Here](https://www.linkedin.com/in/temitopeatanda/)
   
 ![](Thank_you.JPG)
