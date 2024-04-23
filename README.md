@@ -105,7 +105,7 @@ Most cases was from Streaming service and At 749 with 20.45%, we can look critic
 
   __**Best Performing Agent**:___
 
-Dan stands out as the best performing agent based on several metrics:
+**Dan** stands out as the best performing agent based on several metrics:
 Highest percentage of calls answered (82.60%).
 High percentage of calls resolved (74.40%).
 Highest average satisfaction rating (3.45).
