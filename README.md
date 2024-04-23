@@ -141,4 +141,4 @@ You can interact with the report [Here](app.powerbi.com/groups/me/reports/98d9d0
 
 Let's connect on Linkedin You can interact with the report [Here](https://www.linkedin.com/in/temitopeatanda/)
   
-![](Thank you.JPG)
+![](Thank_you.JPG)
