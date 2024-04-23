@@ -137,7 +137,7 @@ Highest average speed of answer (70.99 seconds).
 By taking these actions, the call center can ensure that the best performing agents are recognized and rewarded, while also providing support and guidance to those who may be struggling, ultimately leading to improved overall performance and customer satisfaction.
 
 
-You can interact with the report [Here]([https://atandatee-my.sharepoint.com/:x:/r/personal/temitope_atandatee_onmicrosoft_com/_layouts/15/Doc.aspx?sourcedoc=%7B4E0AD8C2-1ABF-457A-B243-EAE80DCC56AE%7D&file=Adventure%20Works%20Sales%20Analysis%20Dashboard.xlsm&action=default&mobileredirect=true](https://app.powerbi.com/groups/me/reports/98d9d038-95a9-4384-8df6-9d48dfacbe1e/ReportSection08522ebdfeb28c21b2b9?experience=power-bi))
+You can interact with the report [Here](app.powerbi.com/groups/me/reports/98d9d038-95a9-4384-8df6-9d48dfacbe1e/ReportSection08522ebdfeb28c21b2b9?experience=power-bi)
 
 Let's connect on Linkedin You can interact with the report [Here](https://www.linkedin.com/in/temitopeatanda/)
   
