@@ -28,36 +28,42 @@ _The purpose of this project was to find out the call trend over time and to fin
 _**Data Collection:**_ The dataset was gotten from PWC. The dataset features 5000 Calls from 01/01/2021 to 31/03/2021.
 
 
-#### Tool used: PowerBi 
+**Tool used**: PowerBi 
 
-Data Analysis and Preparation 
+### Data Analysis and Preparation 
 
 The following steps are involved in creating the Dashboard: 
-- Data exploration 
-- Extract data 
-- Load data 
-- Data cleaning
-- Dax writing 
-- Report building 
-- Publishing into Powerbi Service 
+1 Data exploration
+2 Extract data 
+3 Load data 
+4 Data cleaning
+5 Dax writing 
+6 Report building 
+7 Publishing into Powerbi Service 
 
 
-Exploring the data, then transform and load into power query editor for data cleaning, since each entry reprents call details and the emply rows represents unanswered/ abandoned call. Then what i needed to was to replace where I have Call answered and Resolved as Y/N to "Yes/No" and so for the other columns where it's necessary. 
-I added new columns with the existing columns that would be needed for my project to enhance the quality of the data and improve the analysis in Power Bi.
+- Data exploration to understand its structure and content.
+- Extraction and loading into Power Query Editor for cleaning, addressing missing or redundant entries.
+- Transformation of data, including converting "Call answered" and "Resolved" indicators to "Yes/No" format for clarity.
+- Addition of new columns to enhance data quality and facilitate analysis.
+- Creation of a satisfaction rating status column using conditional statements.
+- Data loaded into Power BI Desktop environment for visualization.
 
-Satisfaction rating status : How did i create that? I used a conditional column in power query editor environment to achieve that, since i already had satisfaction rating column with items ranging from 1-5. 
 
-The metric i used was 
-If the satisfaction rating is equal to 1 then very dissatisfied, and if equal 2 dissatisfied
-,if equal 3 neutral and if equal 4 satisfied, and else very satisfied. 
+**Satisfaction rating status** : How did i create that? I used a conditional column in power query editor environment to achieve that, since i already had satisfaction rating column with items ranging from 1-5. 
+
+The metric used for satisfaction rating was:
+
+If the satisfaction rating is equal to 1 then very dissatisfied, and if equal 2 dissatisfied and ,if equal 3 neutral and if equal 4 satisfied, and Else very satisfied. 
+
 After the whole data cleaning process, I loaded back the data into powerbi destktop environment for data visualization. 
 
 To achieve the KPIs and other insights the below are the skills demonstrated 
-- Dax
+- Dax ( SUM FUNCTION, DIVIDE, CALCULATE, AVERAGE and etc )
 - PowerPoint report canva design 
 - Slicer 
 - Color formating 
-- Charts ( Table, line chart, and donut chart)
+- Charts ( Table, line chart, and donut chart and gauge)
 - Charts design 
 
 
