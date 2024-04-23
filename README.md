@@ -69,27 +69,24 @@ To achieve the KPIs and other insights the below are the skills demonstrated
 
 Since its just a single table then there was no reason for creating data modeling hence, I carried out writing some DAX to achieve my KPIs such as 
 
-- Total call
-- Answered / Unswered Call and it's percentage %
-- Resolved/Unresolved call and it's percentage %
-- Average of answer calls in seconds 
+##### Key Insights and Metrics
 
-The DAX and functions overview 
-Sum function 
-Calculate function 
-Average function 
-Divide function 
+Total Call Volume: 5000 calls
+Answered/Unanswered Calls: 4054 answered calls (81.08%) and 946 unanswered calls (18.92%)
+Resolved/Unresolved Calls: 3646 resolved calls (72.92%) and 1354 unresolved calls (27.08%)
+Average Speed of Response: 67.52 seconds
+Average Satisfaction Rating: 3.40
 
-KPIs 
-Total call = 5000
-Answered call = 4,054
-Unaswered call = 946
-Call resolution = 3,646
-Unresolved call = 1,354
-Average of answers call in seconds = 67.52
-Average satisfaction rating = 3.40 
+Additional Insights 
 
-Other Insights 
+**Top Resolved Cases by Topic** : Utilized a donut chart to identify common issues. Streaming service-related concerns constituted the majority, highlighting the need for further analysis in this area.
+**Average Satisfaction Rating** : With a rating of 3.40 out of 5, customers generally seem satisfied with the resolution of their issues.
+**Customers Satisfaction Status** : A significant portion (30%) falls under the neutral category, while 29% express satisfaction with the feedback received.
+**Busiest Hour of the Day** : The peak activity occurs around 11 AM, particularly on Mondays, suggesting potential issues over the weekend that require attention.
+**Average Speed of Response** : Becky emerges as the fastest agent with an average response time of 65.33 seconds, while Dan stands out with the highest percentage of calls answered (82.6%). Analyzing their strategies may provide insights for improving overall agent performance.
+
+
+##### Other Insights 
 - What cases received most resolutions among the call topic : To achieve this, I used Donut chart to visualized individual topic from Admin support, contract related, streaming, Technical support  and Payment related. 
 
 Most cases was from Streaming service and At 749 with 20.45%, we can look critically into the Streaming service to see the reason why major complan were coming from them and notably the agents in the Streaming service should be commended for their professionalism in how they handled the customers and how they have been able to proffer solution to the customer's complaint. 
@@ -100,5 +97,48 @@ Most cases was from Streaming service and At 749 with 20.45%, we can look critic
 
 - Busiest hour of the day: The busiest hour of the day falls around 11AM in the morning and precisely on Monday, this could be that customers had major issue over the weekend and they could not really enjoy the company's service provided over the weeend. This must be critically look into on how the customers would enjoy the service paid for over the weekend without interuption. 
 
-- Average speed of calls answers in seconds : Clearly Becky is the agent with most speed of answer at 65.33 while Dan has the most percentage of call answer at 82.6% the company might need to find out the strategry at which these guys are using to ensure their uptimum performance and they may encourage the agent such as Joe and Martha to utilize that to ensure uptimum performance in their dealing with the customers. 
+- Average speed of calls answers in seconds : Clearly Becky is the agent with most speed of answer at 65.33 while Dan has the most percentage of call answer at 82.6% the company might need to find out the strategry at which these guys are using to ensure their uptimum performance and they may encourage the agent such as Joe and Martha to utilize that to ensure uptimum performance in their dealing with the customers.
 
+  __**Best Performing Agent**:___
+
+Dan stands out as the best performing agent based on several metrics:
+Highest percentage of calls answered (82.60%).
+High percentage of calls resolved (74.40%).
+Highest average satisfaction rating (3.45).
+Relatively low average speed of answer (67.28 seconds).
+
+__**Least Performing Agent**:__
+
+Joe appears to be the least performing agent based on the analysis:
+Slightly lower percentage of calls answered (81.60%).
+Lower percentage of calls resolved (73.50%).
+Lowest average satisfaction rating (3.33).
+Highest average speed of answer (70.99 seconds).
+
+### ACTION TO TAKE:
+
+##Recommendations
+
+- Focus on Streaming Service Issues: Given the significant number of resolutions in this area, it's crucial to delve deeper into the root causes of these issues and identify strategies for improvement.
+
+- Weekend Service Improvement: The spike in activity on Mondays suggests potential service disruptions over the weekend. Exploring ways to ensure seamless service delivery during weekends could enhance customer satisfaction.
+
+- Agent Performance Analysis: Further investigation into the strategies employed by top-performing agents like Dan and Martha could provide valuable insights for optimizing overall agent performance.
+
+- Address Neutral Customer Satisfaction: The high proportion of customers in the neutral category indicates room for enhancement in resolving issues and enhancing overall satisfaction.
+
+
+- Provide ongoing training and development opportunities to all agents to enhance their skills and knowledge and establish clear performance metrics and goals for each agent and provide regular feedback and support to help them achieve those goals.
+
+- Provide targeted training and coaching sessions to help Joe improve his customer service skills, problem-solving abilities, and efficiency.
+
+## Conclusion
+
+By taking these actions, the call center can ensure that the best performing agents are recognized and rewarded, while also providing support and guidance to those who may be struggling, ultimately leading to improved overall performance and customer satisfaction.
+
+
+You can interact with the report [Here]([https://atandatee-my.sharepoint.com/:x:/r/personal/temitope_atandatee_onmicrosoft_com/_layouts/15/Doc.aspx?sourcedoc=%7B4E0AD8C2-1ABF-457A-B243-EAE80DCC56AE%7D&file=Adventure%20Works%20Sales%20Analysis%20Dashboard.xlsm&action=default&mobileredirect=true](https://app.powerbi.com/groups/me/reports/98d9d038-95a9-4384-8df6-9d48dfacbe1e/ReportSection08522ebdfeb28c21b2b9?experience=power-bi))
+
+Let's connect on Linkedin You can interact with the report [Here](https://www.linkedin.com/in/temitopeatanda/)
+  
+![](Thank you.JPG)
