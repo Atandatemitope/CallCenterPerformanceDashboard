@@ -99,6 +99,10 @@ Most cases was from Streaming service and At 749 with 20.45%, we can look critic
 
 - Average speed of calls answers in seconds : Clearly Becky is the agent with most speed of answer at 65.33 while Dan has the most percentage of call answer at 82.6% the company might need to find out the strategry at which these guys are using to ensure their uptimum performance and they may encourage the agent such as Joe and Martha to utilize that to ensure uptimum performance in their dealing with the customers.
 
+### Data Visualization/ Dashboard
+
+![](Call_center_dashboard.JPG)
+
   __**Best Performing Agent**:___
 
 Dan stands out as the best performing agent based on several metrics:
