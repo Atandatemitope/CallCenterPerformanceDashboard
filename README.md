@@ -33,13 +33,13 @@ _**Data Collection:**_ The dataset was gotten from PWC. The dataset features 500
 ### Data Analysis and Preparation 
 
 The following steps are involved in creating the Dashboard: 
-1 Data exploration
-2 Extract data 
-3 Load data 
-4 Data cleaning
-5 Dax writing 
-6 Report building 
-7 Publishing into Powerbi Service 
+1. Data exploration
+2. Extract data
+3. Load data
+4. Data cleaning
+5. Dax writing
+6. Report building
+7. Publishing into Powerbi Service 
 
 
 - Data exploration to understand its structure and content.
